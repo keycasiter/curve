@@ -1,0 +1,107 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+.python-version
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# 测试
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# 日志
+*.log
+logs/
+log/
+
+# 本地配置
+.env
+.env.local
+.env.*.local
+config.local.yaml
+config.local.json
+
+# 数据库
+*.sqlite3
+*.db
+*.sql
+*.sqlite
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.swp
+*.swo
+*~
+
+# 文档
+docs/_build/
+site/
+
+# 其他
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 项目特定
+node_modules/
+bower_components/
+jspm_packages/
